@@ -86,7 +86,6 @@ const controller = {
             name: req.body.name,
             country: req.body.country,
             image: req.body.image,
-            description: req.body.description,
             itineraries: req.body. itineraries
         };
     
